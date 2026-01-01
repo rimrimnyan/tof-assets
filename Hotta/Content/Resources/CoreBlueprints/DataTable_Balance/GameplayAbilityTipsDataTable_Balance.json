@@ -61478,7 +61478,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/GunBoxBalanceDes.GunBoxBalanceDes",
                 "Key": "GA_FPlayerGunBoxMelee_AirAttack_des",
                 "SourceString": "当拓荒者滞空时，点击普攻可在空中连续进行五次攻击，并消耗耐力。\r\n第一次攻击对目标造成<shuzhi>{0}%</>*攻击力点伤害，并击退目标\r\n第二次攻击对目标造成<shuzhi>{2}%</>*攻击力点伤害，并击退目标\r\n第三次攻击对目标造成<shuzhi>{4}%</>*攻击力点伤害，并击退目标\r\n第四次攻击对目标造成<shuzhi>{6}%</>*攻击力点伤害，并击退目标\r\n第五次攻击对目标造成<shuzhi>{8}%</>*攻击力点伤害，并击退目标",
-                "LocalizedString": "While the Wanderer is airborne, use normal attack to launch 5 consecutive attacks in the air, consuming END.\r\nFirst Attack: Deals damage equal to <shuzhi>{0}%</> of ATK and knocks the target back.\r\nSecond Attack: Deals damage equal to <shuzhi>{2}%</> of ATK and knocks the target back. \r\nThird Attack: Deals damage equal to <shuzhi>{4}%</> of ATK and knocks the target back.\r\nFourth Attack: Deals damage up to <shuzhi>{6}%</> of ATK and knocks the target back.\r\nFifth Attack: Deals damage equal to <shuzhi>{8}%</> of ATK and knocks the target back."
+                "LocalizedString": "Press Normal Attack while airborne to launch 5 consecutive attacks, consuming Endurance.\r\n First Attack: Deals damage equal to <shuzhi>{0}%</> of ATK to the target and knocks them back.\r\n Second Attack: Deals damage equal to <shuzhi>{2}%</> of ATK to the target and knocks them back.\r\n Third Attack: Deals damage equal to <shuzhi>{4}%</> of ATK to the target and knocks them back.\r\n Fourth Attack: Deals damage equal to <shuzhi>{6}%</> of ATK to the target and knocks them back.\r\n Fifth Attack: Deals damage equal to <shuzhi>{8}%</> of ATK to the target and knocks them back."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/skill_gunbox_airattack.skill_gunbox_airattack",
@@ -61519,7 +61519,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/GunBoxBalanceDes.GunBoxBalanceDes",
                 "Key": "GA_FPlayerGunBoxMelee_Branch_des",
                 "SourceString": "在地面普攻时，使用第一次至第四次普攻中，长按普攻可触发幸运大转盘。\r\n耳光变形扫射前方扇形区域，对目标造成至多<shuzhi>{0}%</>*攻击力点伤害。",
-                "LocalizedString": "Tap and hold normal attack during the first to fourth normal attacks to trigger Lucky Wheel while on the ground.\r\nSLAP transforms to unleash spray fire in a cone-shaped area in front, dealing damage equal to up to <shuzhi>{0}%</> of ATK."
+                "LocalizedString": "Hold Normal Attack during the first to fourth hits while on the ground to trigger Lucky Wheel.\r\n SLAP transforms to spray in a cone-shaped area in front, dealing damage up to <shuzhi>{0}%</> of ATK."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/skill_gunbox_branch.skill_gunbox_branch",
@@ -61552,7 +61552,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/GunBoxBalanceDes.GunBoxBalanceDes",
                 "Key": "GA_FPlayerGunBoxMelee_AimAttack_des",
                 "SourceString": "在地面时，长按普攻可触发打你打你打你。\r\n向瞄准方向发射子弹，每次命中目标造成<shuzhi>{0}%</>*攻击力点伤害。",
-                "LocalizedString": "Hold Normal Attack to trigger Frenzy Smack while on the ground.\r\n Fires a shot in the aimed direction, dealing damage equal to <shuzhi>{0}%</> of ATK to the target with each hit."
+                "LocalizedString": "Hold Normal Attack while on the ground to trigger Frenzy Smack.\r\n Fires a shot in the aimed direction, dealing damage equal to <shuzhi>{0}%</> of ATK to the target with each hit."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/skill_gunbox_aimattack.skill_gunbox_aimattack",
@@ -63787,7 +63787,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisMelee_des",
                 "SourceString": "在地面时，点击普攻可连续进行五次攻击。\r\n第一次攻击对目标至多造成<shuzhi>{0}%</>*攻击力点伤害，并击退目标。\r\n第二次攻击对目标至多造成<shuzhi>{2}%</>*攻击力点伤害，并击退目标。\r\n第三次攻击对目标至多造成<shuzhi>{4}%</>*攻击力点伤害，并击退目标。\r\n第四次攻击对目标至多造成<shuzhi>{6}%</>*攻击力点伤害，并击退目标。\r\n第五次攻击对目标至多造成<shuzhi>{8}%</>*攻击力点伤害，并击退目标。",
-                "LocalizedString": "While on the ground, use normal attack to launch five consecutive strikes.\r\nFirst strike: Deals up to <shuzhi>{0}%</> of ATK, knocking targets back.\r\nSecond strike: Deals up to <shuzhi>{2}%</> of ATK, knocking targets back.\r\nThird strike: Deals up to <shuzhi>{4}%</> of ATK, knocking targets back.\r\nFourth strike: Deals up to <shuzhi>{6}%</> of ATK, knocking targets back.\r\nFifth strike: Deals up to <shuzhi>{8}%</> of ATK, knocking targets back."
+                "LocalizedString": "Press Normal Attack on the ground to launch 5 consecutive attacks.\r\n First Attack: Deals damage up to <shuzhi>{0}%</> of ATK to the target and knocks them back.\r\n Second Attack: Deals damage up to <shuzhi>{2}%</> of ATK to the target and knocks them back.\r\n Third Attack: Deals damage up to <shuzhi>{4}%</> of ATK to the target and knocks them back.\r\n Fourth Attack: Deals damage up to <shuzhi>{6}%</> of ATK to the target and knocks them back.\r\n Fifth Attack: Deals damage up to <shuzhi>{8}%</> of ATK to the target and knocks them back."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_Melee.Lechesis_Melee",
@@ -63826,7 +63826,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisMelee_AirMelee_Des",
                 "SourceString": "当拓荒者滞空时，点击普攻可在空中连续进行五次攻击，并消耗耐力。\r\n第一次攻击对目标至多造成<shuzhi>{0}%</>*攻击力点伤害，并击退目标\r\n第二次攻击对目标至多造成<shuzhi>{2}%</>*攻击力点伤害，并击退目标\r\n第三次攻击对目标至多造成<shuzhi>{4}%</>*攻击力点伤害，并击退目标\r\n第四次攻击对目标至多造成<shuzhi>{6}%</>*攻击力点伤害，并击退目标\r\n第五次攻击对目标至多造成<shuzhi>{8}%</>*攻击力点伤害，并击退目标",
-                "LocalizedString": "Press Normal Attack while airborne to perform 5 consecutive hits, costing Endurance.\r\nThe 1st hit deals damage up to <shuzhi>{0}%</> of ATK and knocks the target back.\r\nThe 2nd hit deals damage up to <shuzhi>{2}%</> of ATK and knocks the target back.\r\nThe 3rd hit deals damage up to <shuzhi>{4}%</> of ATK  and knocks the target back.\r\nThe 4th hit deals damage up to <shuzhi>{6}%</> of ATK and knocks the target back.\r\nThe 5th hit deals damage up to <shuzhi>{8}%</> of ATK and knocks the target back."
+                "LocalizedString": "Press Normal Attack while airborne to launch 5 consecutive attacks, consuming Endurance.\r\n First Attack: Deals damage up to <shuzhi>{0}%</> of ATK to the target and knocks them back.\r\n Second Attack: Deals damage up to <shuzhi>{2}%</> of ATK to the target and knocks them back.\r\n Third Attack: Deals damage up to <shuzhi>{4}%</> of ATK to the target and knocks them back.\r\n Fourth Attack: Deals damage up to <shuzhi>{6}%</> of ATK to the target and knocks them back.\r\n Fifth Attack: Deals damage up to <shuzhi>{8}%</> of ATK to the target and knocks them back."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/skill_Lechesis_AirMelee.skill_Lechesis_AirMelee",
@@ -63867,7 +63867,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisMelee_Branch1_Des",
                 "SourceString": "在地面普攻时，使用第一次至第二次普攻中，长按普攻可触发掠影突袭。\r\n莱可西丝向前方进行快速旋转斩击，落地斜劈，对附近目标共造成<shuzhi>{0}%</>*攻击力点伤害。",
-                "LocalizedString": "Hold normal attack between the first and second ground attacks to trigger Wraith Dash.\r\n Performs a rapid spinning slash forward, finishing with a downward diagonal strike, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby enemies."
+                "LocalizedString": "Hold Normal Attack during the first and second hits while on the ground to trigger Wraith Dash.\r\n Performs a rapid spinning slash forward, finishing with a downward diagonal strike, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby targets."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_Branch1.Lechesis_Branch1",
@@ -63900,7 +63900,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisMelee_Branch2_Des",
                 "SourceString": "在地面普攻时，使用第三次至第四次普攻中，长按普攻可触发跃光奔袭。\r\n莱可西丝蓄力，完成后向前冲刺横斩，对附近目标共造成<shuzhi>{0}%</>*攻击力点伤害。",
-                "LocalizedString": "Hold normal attack between the first and second ground attacks to trigger Glint Assault.\r\n Dashes forward and slash after charging, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby enemies."
+                "LocalizedString": "Hold Normal Attack during the third and fourth hits while on the ground to trigger Glint Assault.\r\n Dashes forward and slashes after charging, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby targets."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_Branch2.Lechesis_Branch2",
@@ -63937,7 +63937,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisMelee_JumpAttack_Des",
                 "SourceString": "滞空时长按普攻（存在敌方目标时点按），攀爬，反向跳攻击或使用喷气背包普攻，可触发曳光落霓。\r\n从空中下落，落地过程中对命中的敌人每次造成<shuzhi>{0}%</>*攻击力点伤害，落地后对附近目标共造成<shuzhi>{2}%</>*攻击力点伤害。",
-                "LocalizedString": "Hold normal attack while airborne (press when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Neon Crash.\r\nPlunge from the above, dealing damage equal to <shuzhi>{0}%</> of ATK to hit enemies during the plunge. Upon landing, deals damage equal to <shuzhi>{2}%</> of ATK to nearby targets."
+                "LocalizedString": "Hold Normal Attack while airborne (press when a target is available), or use Normal Attack while climbing, jumping backward, or using the Jetpack to trigger Neon Crash.\r\n Plunges from the above, dealing damage equal to <shuzhi>{0}%</> of ATK to hit enemies during the plunge. Upon landing, deals damage equal to <shuzhi>{2}%</> of ATK to nearby targets."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_JumpAttack.Lechesis_JumpAttack",
@@ -64035,7 +64035,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisEvadeAttack_Forward_Des",
                 "SourceString": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发由心一击，对前方目标至多造成<shuzhi>{0}%</>*攻击力点伤害。",
-                "LocalizedString": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger True Strike, dealing damage up to <shuzhi>{0}%</> of ATK to frontal targets."
+                "LocalizedString": "Press Normal Attack during the short perfect dodge window (use a directional button before dodging) to trigger True Strike, dealing damage up to <shuzhi>{0}%</> of ATK to targets ahead."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_FEvadeAttack.Lechesis_FEvadeAttack",
@@ -64070,7 +64070,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisEvadeAttack_Back_Des",
                 "SourceString": "闪避之后的短暂时间内，点击普攻，可触发会心一闪，对命中目标造成<shuzhi>{0}%</>*攻击力点伤害。",
-                "LocalizedString": "Use normal attack during the short period after dodging to trigger Critical Flash, dealing damage equal to <shuzhi>{0}%</> of ATK to the hit target."
+                "LocalizedString": "Press Normal Attack during the short period after dodging to trigger Critical Flash, dealing damage equal to <shuzhi>{0}%</> of ATK to targets hit."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_BEvadeAttack.Lechesis_BEvadeAttack",
@@ -64137,7 +64137,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisSkill_Des",
                 "SourceString": "莱可西丝向前挑起敌人，向前快速连续斩击，对附近目标共造成<shuzhi>{0}%</>*攻击力点伤害，获得<shuzhi>斩断！心之锁</>状态，冷却<shuzhi>32</>秒（不受任何冷却时间清除、重置、变化效果的影响）。\r\n<shuzhi>斩断！心之锁</>状态：莱可西丝可在<shuzhi>普攻-掠影突袭</>下长按触发<shuzhi>爱之狂想</>，释放完<shuzhi>爱之狂想</>后可在<shuzhi>普攻-掠影突袭</>下长按触发<shuzhi>溢彩波涌</>，释放完<shuzhi>溢彩波涌</>后可在<shuzhi>普攻-掠影突袭</>下长按触发<shuzhi>辉光撼心</>(<shuzhi>斩断！心之锁</>状态切换武器会移除），上述特殊攻击总计共可使用<shuzhi>3</>次，持续<shuzhi>32</>秒，释放上述技能时莱可西丝处于霸体状态。\r\n<shuzhi>爱之狂想</>：莱可西丝蓄力完成后向前上挑，对附近目标造成<shuzhi>260.7%</>*攻击力点伤害。\r\n<shuzhi>溢彩波涌</>：莱可西丝蓄力完成后向前强力上挑，对附近目标造成<shuzhi>451.5%</>*攻击力点伤害，并对队友添加<shuzhi>心起晦落</>效果：当灰噬值达到80点时触发，削减自身<shuzhi>50</>点灰噬值。\r\n<shuzhi>辉光撼心</>：莱可西丝蓄力完成后向前超级上挑，对附近目标造成<shuzhi>610.6%</>*攻击力点伤害，并对队友治疗<shuzhi>1200%</>*攻击力点生命值。",
-                "LocalizedString": "Launches enemies upward, then performs rapid consecutive slashes forward, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby enemies and inflicting <shuzhi>Armor Dissolve</>. Gains the <shuzhi>Sever! Heart Lock</> state, granting Hyperbody for <shuzhi>25</>s. Cooldown: <shuzhi>25</>s (This is not affected by other cooldown clearing, resetting, or changing effects).\r\n<shuzhi>Sever! Heart Lock</> Status: Hold to trigger <shuzhi>Love Rhapsody</> while in <shuzhi>Wraith Dash</>. After casting <shuzhi>Love Rhapsody</>, hold again under <shuzhi>Wraith Dash</> to trigger <shuzhi>Prism Tide</>. After casting <shuzhi>Prism Tide</>, hold once more under <shuzhi>Wraith Dash</> to trigger <shuzhi>Radiant Shock</>. (The <shuzhi>Sever! Heart Lock</> status is removed when switching weapons.) These special attacks can be used a total of <shuzhi>3</> times and last for <shuzhi>25s</>.\r\n<shuzhi>Love Rhapsody</>: Strikes forward and upward after charging, dealing damage equal to <shuzhi>5,200%</> of ATK to nearby enemies.\r\n<shuzhi>Prism Tide</>: Strikes powerfully forward and upward after charging, dealing damage equal to <shuzhi>27,000%</> of ATK to nearby enemies.\r\n<shuzhi>Radiant Shock</>: Strikes powerfully forward and upward after charging, dealing damage equal to <shuzhi>40,000%</> of ATK to nearby enemies."
+                "LocalizedString": "Launches enemies upward and slashes forward rapidly, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby targets. Grants <shuzhi>Sever! Heart Lock</>. Cooldown: <shuzhi>32</>s (this is not affected by other cooldown clearing, resetting, or changing effects).\r\n <shuzhi>Sever! Heart Lock</>: Hold to trigger <shuzhi>Love Rhapsody</> while in <shuzhi>Wraith Dash</>. After casting <shuzhi>Love Rhapsody</>, hold again under <shuzhi>Wraith Dash</> to trigger <shuzhi>Prism Tide</>. After casting <shuzhi>Prism Tide</>, hold once more under <shuzhi>Wraith Dash</> to trigger <shuzhi>Radiant Shock</> (<shuzhi>Sever! Heart Lock</> is removed when switching weapons). These special attacks can be used a total of <shuzhi>3</> times and last for <shuzhi>32</>s. Grants Hyperbody throughout those skills.\r\n <shuzhi>Love Rhapsody</>: Strikes forward and upward after charging, dealing damage equal to <shuzhi>260.7%</> of ATK to nearby targets.\r\n <shuzhi>Prism Tide</>: Strikes powerfully forward and upward after charging, dealing damage equal to <shuzhi>451.5%</> of ATK to nearby targets and applying <shuzhi>Gloom Burst</> on teammates: Triggers upon reaching 80 Graying Bite points and consumes <shuzhi>50</>.\r\n <shuzhi>Radiant Shock</>: Strikes powerfully forward and upward after charging, dealing damage equal to <shuzhi>610.6%</> of ATK to nearby targets and healing teammates for <shuzhi>1,200%</> of ATK."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/skill_Lechesis.skill_Lechesis",
@@ -64200,7 +64200,7 @@
                 "TableId": "/Game/Resources/CoreBlueprints/DataTable_Balance/Skill/WeaponDes/LechesisBalanceDes.LechesisBalanceDes",
                 "Key": "GA_FPlayerLechesisChangeSkill_Des",
                 "SourceString": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，莱可西丝向前发射心型光波，蓄力完成后斩击光波，光波爆炸对附近目标共造成<shuzhi>{0}%</>*攻击力点伤害，同时自身获得5%最大生命值的护盾和霸体状态，持续3.5秒。",
-                "LocalizedString": "When <red>the weapon is fully charged</> or <red>Phantasia</> is triggered, upon switching to this weapon from another, <shuzhi>removes all debuffs from the Authorizer</>. Launches a heart-shaped energy wave forward, then slashes the charged wave upon full charge. The wave explodes, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby enemies. Gains damage immunity for 3.5s during the skill."
+                "LocalizedString": "When <red>the weapon is fully charged</> or <red>Phantasia</> is triggered, <shuzhi>removes all debuffs from the character</> upon switching to this weapon. Launches a heart-shaped energy wave forward, then slashes the charged wave upon full charge. The wave explodes, dealing damage equal to <shuzhi>{0}%</> of ATK to nearby targets. Grants a Shield equal to 5% of Max HP and Hyperbody for 3.5s."
               },
               "Icon": {
                 "AssetPathName": "/Game/Resources/Icon/skill/WeaponSkill/Lechesis_ChangeSkill.Lechesis_ChangeSkill",

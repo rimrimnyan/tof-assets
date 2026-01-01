@@ -51,6 +51,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_spear_ice_balance",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -383,6 +384,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_digger_physic_balance",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -715,6 +717,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_sword_thunder_balance",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -1047,6 +1050,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_bow_fire_balance",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -1379,6 +1383,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_stave_thunder_balance",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_14",
         "MountIcon": {
@@ -1739,6 +1744,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_cannon_ice_balance",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_15",
         "MountIcon": {
@@ -2081,6 +2087,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_hammer_ice_balance",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_2",
         "MountIcon": {
@@ -2423,6 +2430,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_bow_physic_balance",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_16",
         "MountIcon": {
@@ -2765,6 +2773,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 60,
         "UpgradeReturnDropID": "return_spear_thunder_balance",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_4",
         "MountIcon": {
@@ -3107,6 +3116,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_2",
         "MountIcon": {
@@ -3439,6 +3449,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_5",
         "MountIcon": {
@@ -3872,6 +3883,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_5",
         "MountIcon": {
@@ -4232,6 +4244,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_7",
         "MountIcon": {
@@ -4674,6 +4687,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_7",
         "MountIcon": {
@@ -5034,6 +5048,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_13",
         "MountIcon": {
@@ -5467,6 +5482,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_13",
         "MountIcon": {
@@ -5827,6 +5843,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_12",
         "MountIcon": {
@@ -6269,6 +6286,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_12",
         "MountIcon": {
@@ -6629,6 +6647,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_31",
         "MountIcon": {
@@ -7063,6 +7082,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_31",
         "MountIcon": {
@@ -7442,6 +7462,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_31",
         "MountIcon": {
@@ -7832,6 +7853,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_1",
         "MountIcon": {
@@ -7963,7 +7985,7 @@
               "SubPathString": ""
             },
             "FashionPreviewActor": {
-              "AssetPathName": "None",
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponCubeFire_SSRShow_Level3.WeaponCubeFire_SSRShow_Level3_C",
               "SubPathString": ""
             },
             "FashionDevelopActor": {
@@ -8238,6 +8260,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_1",
         "MountIcon": {
@@ -8598,6 +8621,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_3",
         "MountIcon": {
@@ -9031,6 +9055,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_3",
         "MountIcon": {
@@ -9391,6 +9416,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_32",
         "MountIcon": {
@@ -9409,7 +9435,7 @@
               "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/WeaponDes/FenrirDes.FenrirDes",
               "Key": "tuijianyizhi01",
               "SourceString": "提供暴击伤害契合格莱普尼的6阶暴击率提升并拥有不错的后台增伤能力",
-              "LocalizedString": "Provide crit damage to match Gleipnir's R6 crit rate increase, and come with good off-hand slot damage boost."
+              "LocalizedString": "Provides Crit Damage to match Gleipnir's R6 Crit Rate boost, as well as a decent off-hand damage boost."
             }
           },
           {
@@ -9843,6 +9869,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_32",
         "MountIcon": {
@@ -10222,6 +10249,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_8",
         "MountIcon": {
@@ -10655,6 +10683,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_8",
         "MountIcon": {
@@ -11015,6 +11044,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_10",
         "MountIcon": {
@@ -11449,6 +11479,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_10",
         "MountIcon": {
@@ -11809,6 +11840,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_10",
         "MountIcon": {
@@ -12188,6 +12220,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_17",
         "MountIcon": {
@@ -12622,6 +12655,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_17",
         "MountIcon": {
@@ -13030,6 +13064,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_17",
         "MountIcon": {
@@ -13409,6 +13444,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_9",
         "MountIcon": {
@@ -13842,6 +13878,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_9",
         "MountIcon": {
@@ -14202,6 +14239,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_22",
         "MountIcon": {
@@ -14636,6 +14674,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_22",
         "MountIcon": {
@@ -14996,6 +15035,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_22",
         "MountIcon": {
@@ -15356,6 +15396,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_22",
         "MountIcon": {
@@ -15716,6 +15757,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_22",
         "MountIcon": {
@@ -16076,6 +16118,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -16510,6 +16553,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21L1",
         "MountIcon": {
@@ -16861,6 +16905,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -17240,6 +17285,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -17588,6 +17634,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -17936,6 +17983,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_29",
         "MountIcon": {
@@ -18360,6 +18408,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_29",
         "MountIcon": {
@@ -18739,6 +18788,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_11",
         "MountIcon": {
@@ -19154,6 +19204,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_11",
         "MountIcon": {
@@ -19514,6 +19565,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_28",
         "MountIcon": {
@@ -19938,6 +19990,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_28",
         "MountIcon": {
@@ -20317,6 +20370,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_28",
         "MountIcon": {
@@ -20696,6 +20750,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_28",
         "MountIcon": {
@@ -21075,6 +21130,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_6",
         "MountIcon": {
@@ -21517,6 +21573,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_6",
         "MountIcon": {
@@ -21877,6 +21934,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_6",
         "MountIcon": {
@@ -22237,6 +22295,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_6",
         "MountIcon": {
@@ -22597,6 +22656,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_24",
         "MountIcon": {
@@ -23021,6 +23081,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_24",
         "MountIcon": {
@@ -23400,6 +23461,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_24",
         "MountIcon": {
@@ -23779,6 +23841,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_24",
         "MountIcon": {
@@ -24158,6 +24221,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_53",
         "MountIcon": {
@@ -24592,6 +24656,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_53L1",
         "MountIcon": {
@@ -25000,6 +25065,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_53",
         "MountIcon": {
@@ -25397,6 +25463,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_53",
         "MountIcon": {
@@ -25794,6 +25861,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_53",
         "MountIcon": {
@@ -26202,6 +26270,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_53",
         "MountIcon": {
@@ -26610,6 +26679,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_48",
         "MountIcon": {
@@ -27044,6 +27114,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_48",
         "MountIcon": {
@@ -27441,6 +27512,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_48",
         "MountIcon": {
@@ -27838,6 +27910,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_51",
         "MountIcon": {
@@ -28262,6 +28335,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_51L1",
         "MountIcon": {
@@ -28659,6 +28733,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_54",
         "MountIcon": {
@@ -29083,6 +29158,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_54L1",
         "MountIcon": {
@@ -29480,6 +29556,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_55",
         "MountIcon": {
@@ -29888,6 +29965,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_55",
         "MountIcon": {
@@ -30296,6 +30374,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_55",
         "MountIcon": {
@@ -30704,6 +30783,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -31039,6 +31119,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_26",
         "MountIcon": {
@@ -31401,6 +31482,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -31736,6 +31818,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -32098,6 +32181,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -32433,6 +32517,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_26",
         "MountIcon": {
@@ -32795,6 +32880,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -33130,6 +33216,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -33465,6 +33552,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -33827,6 +33915,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -34162,6 +34251,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -34497,6 +34587,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -34832,6 +34923,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -35167,6 +35259,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -35502,6 +35595,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -35837,6 +35931,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -36172,6 +36267,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -36507,6 +36603,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -36842,6 +36939,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -37177,6 +37275,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -37512,6 +37611,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -37847,6 +37947,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -38182,6 +38283,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -38517,6 +38619,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -38852,6 +38955,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -39187,6 +39291,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -39522,6 +39627,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -39857,6 +39963,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -40192,6 +40299,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -40527,6 +40635,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -40862,6 +40971,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -41197,6 +41307,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -41532,6 +41643,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -41867,6 +41979,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -42202,6 +42315,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -42537,6 +42651,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -42872,6 +42987,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -43207,6 +43323,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -43542,6 +43659,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -43877,6 +43995,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -44212,6 +44331,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -44547,6 +44667,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -44882,6 +45003,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -45217,6 +45339,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -45552,6 +45675,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -45887,6 +46011,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -46222,6 +46347,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -46557,6 +46683,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -46892,6 +47019,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -47227,6 +47355,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -47562,6 +47691,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -47897,6 +48027,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -48232,6 +48363,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -48567,6 +48699,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -48902,6 +49035,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -49237,6 +49371,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -49572,6 +49707,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -49907,6 +50043,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -50242,6 +50379,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -50577,6 +50715,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -50912,6 +51051,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -51247,6 +51387,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -51582,6 +51723,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -51917,6 +52059,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -52252,6 +52395,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -52587,6 +52731,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -52922,6 +53067,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -53257,6 +53403,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -53592,6 +53739,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -53927,6 +54075,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -54262,6 +54411,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -54597,6 +54747,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -54932,6 +55083,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -55267,6 +55419,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -55602,6 +55755,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -55937,6 +56091,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -56272,6 +56427,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -56607,6 +56763,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -56942,6 +57099,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -57277,6 +57435,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -57612,6 +57771,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -57947,6 +58107,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -58282,6 +58443,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -58617,6 +58779,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -58952,6 +59115,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -59287,6 +59451,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -59622,6 +59787,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -59957,6 +60123,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -60292,6 +60459,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -60627,6 +60795,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -60962,6 +61131,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -61297,6 +61467,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -61632,6 +61803,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -61967,6 +62139,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -62302,6 +62475,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_32",
         "MountIcon": {
@@ -62320,7 +62494,7 @@
               "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/WeaponDes/FenrirDes.FenrirDes",
               "Key": "tuijianyizhi01",
               "SourceString": "提供暴击伤害契合格莱普尼的6阶暴击率提升并拥有不错的后台增伤能力",
-              "LocalizedString": "Provide crit damage to match Gleipnir's R6 crit rate increase, and come with good off-hand slot damage boost."
+              "LocalizedString": "Provides Crit Damage to match Gleipnir's R6 Crit Rate boost, as well as a decent off-hand damage boost."
             }
           },
           {
@@ -62728,6 +62902,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_56",
         "MountIcon": {
@@ -63136,6 +63311,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_56",
         "MountIcon": {
@@ -63544,6 +63720,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_56",
         "MountIcon": {
@@ -63952,6 +64129,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_30",
         "MountIcon": {
@@ -64386,6 +64564,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_30",
         "MountIcon": {
@@ -64765,6 +64944,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_30",
         "MountIcon": {
@@ -65162,6 +65342,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_57",
         "MountIcon": {
@@ -65606,6 +65787,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_57L1",
         "MountIcon": {
@@ -66003,6 +66185,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_fashion_57",
         "MountIcon": {
@@ -66400,6 +66583,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_fashion_57_2",
         "MountIcon": {
@@ -66797,6 +66981,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_58",
         "MountIcon": {
@@ -67231,6 +67416,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_58L1",
         "MountIcon": {
@@ -67639,6 +67825,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_58",
         "MountIcon": {
@@ -68047,6 +68234,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_23",
         "MountIcon": {
@@ -68501,6 +68689,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_23",
         "MountIcon": {
@@ -68880,6 +69069,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_23",
         "MountIcon": {
@@ -69270,6 +69460,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_23",
         "MountIcon": {
@@ -69660,6 +69851,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_59",
         "MountIcon": {
@@ -70104,6 +70296,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_59L1",
         "MountIcon": {
@@ -70473,6 +70666,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_59",
         "MountIcon": {
@@ -70842,6 +71036,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_59",
         "MountIcon": {
@@ -71211,6 +71406,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_62",
         "MountIcon": {
@@ -71645,6 +71841,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_62L1",
         "MountIcon": {
@@ -72053,6 +72250,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_62",
         "MountIcon": {
@@ -72461,6 +72659,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_34",
         "MountIcon": {
@@ -72895,6 +73094,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_34",
         "MountIcon": {
@@ -73283,6 +73483,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_34",
         "MountIcon": {
@@ -73671,6 +73872,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_34",
         "MountIcon": {
@@ -74059,6 +74261,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -74379,6 +74582,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_21",
         "MountIcon": {
@@ -74699,6 +74903,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_61",
         "MountIcon": {
@@ -75133,6 +75338,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_61L1",
         "MountIcon": {
@@ -75541,6 +75747,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_61",
         "MountIcon": {
@@ -75949,6 +76156,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_63",
         "MountIcon": {
@@ -76383,6 +76591,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_63L1",
         "MountIcon": {
@@ -76791,6 +77000,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_63",
         "MountIcon": {
@@ -77199,6 +77409,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_65",
         "MountIcon": {
@@ -77633,6 +77844,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_65L1",
         "MountIcon": {
@@ -78041,6 +78253,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -78376,6 +78589,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -78711,6 +78925,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -79046,6 +79261,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -79381,6 +79597,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -79716,6 +79933,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -80051,6 +80269,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -80386,6 +80605,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -80721,6 +80941,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_67",
         "MountIcon": {
@@ -81155,6 +81376,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_67L1",
         "MountIcon": {
@@ -81563,6 +81785,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_67",
         "MountIcon": {
@@ -81971,6 +82194,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_50",
         "MountIcon": {
@@ -82405,6 +82629,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_50L1",
         "MountIcon": {
@@ -82813,6 +83038,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_50",
         "MountIcon": {
@@ -83210,6 +83436,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_50",
         "MountIcon": {
@@ -83607,6 +83834,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_37",
         "MountIcon": {
@@ -84041,6 +84269,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_37L1",
         "MountIcon": {
@@ -84438,6 +84667,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_37",
         "MountIcon": {
@@ -84830,6 +85060,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Sup",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -85148,6 +85379,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -85472,6 +85704,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -85796,6 +86029,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -86120,6 +86354,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "None",
         "MountIcon": {
@@ -86449,6 +86684,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_64",
         "MountIcon": {
@@ -86883,6 +87119,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_64L1",
         "MountIcon": {
@@ -87301,6 +87538,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_64",
         "MountIcon": {
@@ -87709,6 +87947,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_46",
         "MountIcon": {
@@ -88133,6 +88372,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_46L1",
         "MountIcon": {
@@ -88530,6 +88770,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_52",
         "MountIcon": {
@@ -88964,6 +89205,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_52",
         "MountIcon": {
@@ -89372,6 +89614,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_52",
         "MountIcon": {
@@ -89780,6 +90023,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_52",
         "MountIcon": {
@@ -90177,6 +90421,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_52",
         "MountIcon": {
@@ -90574,6 +90819,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_52L1",
         "MountIcon": {
@@ -90982,6 +91228,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_66",
         "MountIcon": {
@@ -91416,6 +91663,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_66L1",
         "MountIcon": {
@@ -91824,6 +92072,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_66",
         "MountIcon": {
@@ -92232,6 +92481,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_71",
         "MountIcon": {
@@ -92666,6 +92916,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_71L1",
         "MountIcon": {
@@ -93074,6 +93325,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_71",
         "MountIcon": {
@@ -93482,6 +93734,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_74",
         "MountIcon": {
@@ -93916,6 +94169,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_74",
         "MountIcon": {
@@ -94324,6 +94578,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_74",
         "MountIcon": {
@@ -94732,6 +94987,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_72",
         "MountIcon": {
@@ -95166,6 +95422,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_72L1",
         "MountIcon": {
@@ -95574,6 +95831,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_27",
         "MountIcon": {
@@ -95998,6 +96256,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Phy",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_27L1",
         "MountIcon": {
@@ -96395,6 +96654,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_69",
         "MountIcon": {
@@ -96829,6 +97089,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_69L1",
         "MountIcon": {
@@ -97237,6 +97498,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Thu",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_69",
         "MountIcon": {
@@ -97645,6 +97907,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_70",
         "MountIcon": {
@@ -98079,6 +98342,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_70L1",
         "MountIcon": {
@@ -98476,6 +98740,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Fire",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_70",
         "MountIcon": {
@@ -98884,6 +99149,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_75",
         "MountIcon": {
@@ -99318,6 +99584,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_75L1",
         "MountIcon": {
@@ -99715,6 +99982,7 @@
         "RecastCount": 100,
         "UpgradeReturnLevel": 0,
         "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "return_mmos1_Ice",
         "SensualityPackId": "None",
         "WeaponFashionID": "imitation_75",
         "MountIcon": {
@@ -100082,6 +100350,397 @@
         "AvailableServerMode": "EHottaServerModeLimit::AllServer",
         "CanMultiSynthesis": false,
         "MMOSeasonIndex": 1
+      },
+      "fan_superpower_outbreak": {
+        "UpgradeStarPackID": "fan_superpower_ssr_star",
+        "MaxUpgradeStar": 6,
+        "IsWeaponMaterial": false,
+        "IsFateWeapon": false,
+        "IsUpPoolWeapon": true,
+        "IsWarehouseWeapon": false,
+        "AwardPackageID": "drop_weapon_ssr_first",
+        "WeaponSkillList": [
+          "GA_FPlayerFanMelee",
+          "GA_FPlayerFanEvade",
+          "GA_FPlayerFanSkill",
+          "GA_FPlayerFanChangeSkill"
+        ],
+        "IsSkillSet": false,
+        "SkillSetSwitchIndex": -1,
+        "bCustomWeaponElement": false,
+        "ItemLargeIcon": {
+          "AssetPathName": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01.item_Weapon_SSR_fan_superpower01",
+          "SubPathString": ""
+        },
+        "ItemUnLockIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "WeaponUPIcon": {
+          "AssetPathName": "/Game/Resources/UI/chouka/UP9_LY/UI_UP_LY_Weapon.UI_UP_LY_Weapon",
+          "SubPathString": ""
+        },
+        "WeaponSlayLetterIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxTupoLevel": 0,
+        "UpgradePackId": "fan_superpower_ssr_lv",
+        "TupoPackId": "superpower_ssr_tupo_BD",
+        "RecastType": "EHottaCurrencyType::FakeDiamond",
+        "RecastCount": 100,
+        "UpgradeReturnLevel": 0,
+        "UpgradeReturnDropID": "None",
+        "UpgradeResetID": "None",
+        "SensualityPackId": "Fan_Sensuality",
+        "WeaponFashionID": "imitation_23",
+        "MountIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "WeaponSlotCounts": 4,
+        "WeaponIconForMatrix": {
+          "AssetPathName": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01.yizhi_SSR_fan_superpower01",
+          "SubPathString": ""
+        },
+        "MatrixSuitArray": [
+          {
+            "MatrixSuitName": "suit_SSR18",
+            "MatrixSuitDes": {
+              "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+              "Key": "fan_superpower_reason_1",
+              "SourceString": "2件套提高全攻，增加输出，4件套进一步依靠风场提高伤害",
+              "LocalizedString": "The two-set bonus increases ATK and DPS. The four-set bonus further enhances damage via the wind field."
+            }
+          },
+          {
+            "MatrixSuitName": "suit_SSR25",
+            "MatrixSuitDes": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/WeaponDes/UmbrellaDes.UmbrellaDes",
+              "Key": "Umbrella_fire_reason_3",
+              "SourceString": "2件套提高前台输出能力，4件套提供泛用的后台能力",
+              "LocalizedString": "The two-set bonus increases main slot damage. The four-set provides universal off-hand slot abilities."
+            }
+          },
+          {
+            "MatrixSuitName": "suit_SSR26",
+            "MatrixSuitDes": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/WeaponDes/UmbrellaDes.UmbrellaDes",
+              "Key": "Umbrella_fire_reason_3",
+              "SourceString": "2件套提高前台输出能力，4件套提供泛用的后台能力",
+              "LocalizedString": "The two-set bonus increases main slot damage. The four-set provides universal off-hand slot abilities."
+            }
+          },
+          {
+            "MatrixSuitName": "suit_SR7",
+            "MatrixSuitDes": {
+              "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+              "Key": "fan_superpower_reason_2",
+              "SourceString": "3件套提高攻击力，契合影织的攻击距离",
+              "LocalizedString": "The three-set bonus increases ATK and benefits the attack range of Shadoweave."
+            }
+          }
+        ],
+        "WeaponFashionIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "PreviewWeaponClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FashionWeaponInfos": [
+          {
+            "FashionMeshOrder": "EWeaponMeshType::WEAPONMESH_THIRDORDER",
+            "FashionName": {
+              "Namespace": "",
+              "Key": "444C3577477961B6DFE1339A51F655C8",
+              "SourceString": "云蒸水织",
+              "LocalizedString": "Misty Weave"
+            },
+            "FashionImitationId": "imitation_fashion_23_w"
+          },
+          {
+            "FashionMeshOrder": "EWeaponMeshType::WEAPONMESH_FOURTHORDER",
+            "FashionName": {
+              "Namespace": "",
+              "Key": "78D24F8E4BABB5D1B31C1D95EB4AA200",
+              "SourceString": "珊瑚花织",
+              "LocalizedString": "Coral Weave"
+            },
+            "FashionImitationId": "imitation_fashion_23_w_2"
+          }
+        ],
+        "WeaponAttackTable": "operate_Yz",
+        "WeaponBackdrop": {
+          "WeaponElementType": "EWeaponElementType::None",
+          "NeedHiddenComponent": [],
+          "WeaponBackdropActor": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ActorTransform": {
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0
+            },
+            "Translation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "SoloLeagueBanPickBanner": {
+          "AssetPathName": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256.avatar_matrix_SSR18_256",
+          "SubPathString": ""
+        },
+        "WeaponAbilityMaxValue": 16.0,
+        "WeaponAbilityMap": [],
+        "WeaponMatchDes": {
+          "CultureInvariantString": null
+        },
+        "ItemBadgeUIIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "TrainingMediaID": "None",
+        "FashionWeaponActorClass": [],
+        "MMOAutoCombatPriority": 0,
+        "MMOAutoCombatPriority[1]": 0,
+        "MMOAutoCombatPriority[2]": 0,
+        "MMOAutoCombatPriority[3]": 0,
+        "OrderLevel": 0,
+        "StrengthenPackID": "None",
+        "StrengthenEffectPackID": "None",
+        "MaxStrengthenLevel": 0,
+        "EquipDamageMult": 1.0,
+        "AdvancePackId": "None",
+        "AdvanceMaterialItemIdList": [],
+        "CanTupo": false,
+        "EquipTupoPackId": "None",
+        "TupoOrangeItemID": "None",
+        "TupoRedItemID": "None",
+        "OldEquipItemID": "None",
+        "UncommonPackId": "None",
+        "AwakeningId": "None",
+        "WeaponExp": 0,
+        "bReminderAutoEquip": false,
+        "bForeceReminder": false,
+        "WeaponTypeData": {
+          "WeaponCategory": "EWeaponCategory::DPS",
+          "WeaponType": "EWeaponType::Fan",
+          "WeaponClassType": "EWeaponClassType::Energy",
+          "ChargeLevel": "ChargeType_Default",
+          "WeaponElementType": "EWeaponElementType::Superpower",
+          "WeaponAccessoryElementType": 0
+        },
+        "ChargeLevel": "ChargeType_Default",
+        "bUnequipedCanInlayGemstone": false,
+        "GemstoneSlotConfigArray": [],
+        "SuitId": 0,
+        "PassiveEffectGridNum": 0,
+        "PassiveEffectNum": 0,
+        "PassiveEffectGroupIndex": 0,
+        "RecylceItemID": [],
+        "AdvanceExpRecycleScale": 0.4,
+        "EquipSkillID": "None",
+        "bIdentifyEquip": false,
+        "ItemIcon": {
+          "AssetPathName": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01.item_Weapon_SSR_fan_superpower01",
+          "SubPathString": ""
+        },
+        "ArtPackID": "None",
+        "ItemName": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "fan_superpower_ssr",
+          "SourceString": "影织",
+          "LocalizedString": "Shadoweave"
+        },
+        "ItemNameImage": {
+          "AssetPathName": "/Game/Resources/Icon/weapon/Name/name_linye.name_linye",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "fan_superpower_ssr_1",
+          "SourceString": "最开始打算设计成更为小巧轻便的暗器，但在使用者本人的要求下，改装成了这副形似于一把剑的厚重姿态。沉甸甸的，完全不像是暗器该有的样子。",
+          "LocalizedString": "The initial design shows it to be a lightweight and covert concealed weapon, but it's changed to a heavy blade by the user's own request. It's heavy and not like a concealed weapon at all."
+        },
+        "UseDescription": {
+          "CultureInvariantString": null
+        },
+        "UpgradeRouteConfigId": "None",
+        "bNeedNoticeMessage": false,
+        "bNeedShowFirstGetTips": false,
+        "bAlwaysBind": false,
+        "bShowAttrIcon": false,
+        "bNotReminder": true,
+        "EquipBatchLevel": 0,
+        "SellPrice": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "ItemType": "ITEM_TYPE_WEAPON",
+        "DisplayTypeText": {
+          "CultureInvariantString": null
+        },
+        "LogItemType": 43,
+        "ArrangeType": 0,
+        "bShowBagAmount": false,
+        "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+        "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+        "RandomAttributeQuality": "ITEM_ATTRIBUTE_QUALITY_WHITE",
+        "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+        "EquipmentSlotType": "EQUIPMENT_SLOT_WEAPON",
+        "ItemActorClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Fan_SuperPower_SSR_Outbreak.Weapon_Fan_SuperPower_SSR_Outbreak_C",
+          "SubPathString": ""
+        },
+        "DropActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttachInfoName": "None",
+        "UsingItemSkill": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxAmount": 999,
+        "bUseDurable": false,
+        "MaxDurable": 1000,
+        "LifeTime": 0,
+        "LifeWeeks": 0,
+        "EndLiftTime": {
+          "year": 1,
+          "month": 1,
+          "day": 1,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "bTimeLimitIcon": false,
+        "ModifyData": "fan_superpower_ssr_1",
+        "RandomModifyData": "None",
+        "AssignRandomModifyData": [],
+        "BaseScore": 0,
+        "bAutoUseWhenAdd": false,
+        "AutoUseWhenAddInServerModes": [],
+        "UesNeedSlot": 0,
+        "StaticToolName": "None",
+        "NeedLevel": 0,
+        "bCanMulUse": false,
+        "UsePathID": "None",
+        "bIsCanUseInBattle": true,
+        "GameplayTagUsingCheck": [],
+        "BlockID": "None",
+        "UseSuccessMsg": "",
+        "BackToMainForm": false,
+        "ShortcutType": "EShortcutItemType::SHORTCUT_ITEM_TYPE_INVALID",
+        "CanShowInSupplyList": true,
+        "ActivityID": "None",
+        "ActivitySubID": "None",
+        "CannotUseUnderWater": false,
+        "bAutoUseGiftPopupAwardsInfo": false,
+        "ShowMessageBoxWhenUseItem": [],
+        "IngredientID": "None",
+        "bIsTechSystemItem": false,
+        "bBuffOnlyExhibit": false,
+        "Buffs": [],
+        "BuffsInServerModes": [],
+        "bMultiApplyBuff": false,
+        "PermanentAttributeModify": [],
+        "PriceMap": [],
+        "BookName": "None",
+        "LetterID": "None",
+        "MountId": "None",
+        "OutputSourceID": "None",
+        "OutputSourceID_os": [],
+        "OutputSourceID_Region": [],
+        "OptionalBoxID": [],
+        "RandomBoxID": [],
+        "ItemBrief": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "brief_WeaponSSR",
+          "SourceString": "武器SSR",
+          "LocalizedString": "Weapon SSR"
+        },
+        "PreviewPath": "",
+        "HarvestPhysicalStrengthCost": 0,
+        "bShowOutputSource": false,
+        "bCanMelt": true,
+        "MeltPackID": "fan_superpower_meltpack",
+        "MeltPackIdInServerModes": [],
+        "DisableAutoMeltInServerModes": [],
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "IdentifyCost": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "DropGroupID": "None",
+        "GashaponActivityID": "None",
+        "GashaponJackpotID": "None",
+        "bAwardCanSelect": false,
+        "NeedShowCanUseFlg": false,
+        "TrialWeaponID": "None",
+        "TrialWeaponHour": 0,
+        "TrialArtifactID": "None",
+        "TrialArtifactHour": 0,
+        "bShowHighQualityTip": true,
+        "LotteryDrawing": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23.imitation_23",
+          "SubPathString": ""
+        },
+        "LotteryCardImage": {
+          "AssetPathName": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_linye.SSR_lh_linye",
+          "SubPathString": ""
+        },
+        "LotteryDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "fan_superpower_ssr_1",
+          "SourceString": "最开始打算设计成更为小巧轻便的暗器，但在使用者本人的要求下，改装成了这副形似于一把剑的厚重姿态。沉甸甸的，完全不像是暗器该有的样子。",
+          "LocalizedString": "The initial design shows it to be a lightweight and covert concealed weapon, but it's changed to a heavy blade by the user's own request. It's heavy and not like a concealed weapon at all."
+        },
+        "LotteryCharacterType": "RCT_NULL",
+        "LotteryMontageId": "None",
+        "bIgnoreHarvestLimit": false,
+        "HobbyFlag": [],
+        "LikeabilityValue": 0,
+        "bCanExhibit": true,
+        "CanUseAutoCombat": true,
+        "ShortCutPriority": -1,
+        "ValidTime": -1,
+        "CardGameType": "ECardGameItemType::Mahjong",
+        "MahjongMatInst": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LandlordTableImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "transformItem": "None",
+        "transformCount": 0,
+        "bTamingMonster": false,
+        "FeedToCorralMonsterTags": [],
+        "FeedToCorralMonsterAddExp": 0,
+        "Tags": [],
+        "bMasterGiftItem": false,
+        "MasterGiftWeeklyGiveNum": 0,
+        "MasterGiftStackNum": 0,
+        "AvailableServerMode": "EHottaServerModeLimit::AllServer",
+        "CanMultiSynthesis": false,
+        "MMOSeasonIndex": 0
       }
     }
   }
